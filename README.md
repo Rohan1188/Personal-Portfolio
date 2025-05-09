@@ -87,7 +87,6 @@ This is a fully responsive developer portfolio site built with HTML5, CSS3, and 
 ## 📬 Contact
 
 * 📧 [rohankushwaha1432@gmail.com](mailto:rohankushwaha1432@gmail.com)
-* 📍 Bhubaneswar, India
 * 💼 [LinkedIn](https://www.linkedin.com/in/rohan-kushwaha-393154279/)
 * 🐱 [GitHub](https://github.com/Rohan1188)
 
