@@ -1,6 +1,5 @@
-# 💼 Rohan Kushwaha - Personal Portfolio Website
+# 💼Personal Portfolio Website
 
-Welcome to the GitHub repository of my personal portfolio website — a modern, interactive, and mobile-responsive website designed to introduce myself, showcase my skills and experiences, and provide access to the various projects I have worked on. Built with core web technologies and enhanced with engaging UI elements, this portfolio is a practical demonstration of my abilities as a budding developer.
 
 ---
 
