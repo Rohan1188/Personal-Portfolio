@@ -78,11 +78,6 @@ This is a fully responsive developer portfolio site built with HTML5, CSS3, and 
 
 ---
 
-## 📷 Preview
-
-![Portfolio Screenshot](./assets/images/projects/portfolio.png)
-
----
 
 ## 📬 Contact
 
