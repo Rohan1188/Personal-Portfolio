@@ -7,6 +7,12 @@ This is the personal portfolio website of Rohan Kushwaha, showcasing his skills,
 
 ## 📌 Overview
 
+Deployment: https://personal-portfolio-k26x.vercel.app/
+
+
+![image](https://github.com/user-attachments/assets/6c8d625c-428a-4200-966a-15f4cf54c916)
+
+
 This is a fully responsive developer portfolio site built with HTML5, CSS3, and JavaScript. It highlights:
 
 * 👨‍💻 About Me
